@@ -1,2 +1,3 @@
 # Credit-rating-
-credit reting prediction usingmachin learning 
+credit rating prediction using machine learning 
+ Author -Vikash 
